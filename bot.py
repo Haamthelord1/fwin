@@ -1,7 +1,7 @@
 import telebot 
 import time 
 import random
-TOKEN = "5457489383:AAECKnOy7I1OjmgtEupeBYShieNJVYTjhBk"
+TOKEN = "5584666113:AAEZINo02AaeIB8-6UTW9i2V0znA_ZqRBlc"
 bot = telebot.TeleBot(TOKEN) 
 def send_image():
  a = random.randint(0,1)
